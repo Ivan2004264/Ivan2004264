@@ -1,6 +1,8 @@
 # Mi pagina web 'Tigre'
 Indice  
 - [Primera Parte](##Primera-Parte)
+- [Segunda Parte](##Segunda-Parte)
+- [Tercera Parte](##Tercera-Parte)
 ## Primera Parte
 ![Esto es un tigre](cap1.png)  
 Esto es una parte de varias paginas web dedicadas a los animales en este caso es sobre el tigre. A continuacion voy a explicar las diferentes cosas que se pueden llegar a visualizar:
@@ -10,14 +12,15 @@ Esto es una parte de varias paginas web dedicadas a los animales en este caso es
 > Abajo hay una pequeña linea negra que separa este contenido del siguiente.
 
 
-### Segunda Parte
+## Segunda Parte
 ![Esto es un tigre](cap2.png)  
-En esta parte de la pagina divido en tres secciones las diferentes noticias del animal, hablo de noticias actuales sobre enfermedades de las que se contagian, natalidad, entre otras.
+En esta parte de la pagina divido en tres secciones las diferentes noticias del animal, hablo de noticias actuales sobre enfermedades de las que se contagian, natalidad, entre otras. 
+- Tres fotos con sus respectivos titulos abajo.
+- Descriopcion de las noticias.
+- 
 
-
-
-##### Tercera Parte Parte
-
+## Tercera Parte
+![Esto es un tigre](cap3.png)
 .
 
 
