@@ -20,7 +20,9 @@ En esta parte de la pagina divido en tres secciones las diferentes noticias del 
 - 
 
 ## Tercera Parte
-![Esto es un tigre](cap3.png)
-.
+![Esto es un tigre](cap3.PNG)  
+Esta es la parte final de la pagina, la cual se compone de un mapa geografico donde esta señalada la ubicacion del tigre y como esta distribuido.
+> Abajo se encuentra el sello de *copyright*
+
 
 
