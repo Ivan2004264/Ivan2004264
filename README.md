@@ -1,5 +1,6 @@
 # Mi pagina web 'Tigre'
-
+Indice  
+- [Primera Parte](##Primera-Parte)
 ## Primera Parte
 ![Esto es un tigre](cap1.png)  
 Esto es una parte de varias paginas web dedicadas a los animales en este caso es sobre el tigre. A continuacion voy a explicar las diferentes cosas que se pueden llegar a visualizar:
@@ -10,13 +11,13 @@ Esto es una parte de varias paginas web dedicadas a los animales en este caso es
 
 
 ### Segunda Parte
-![Esto es un tigre](cap1.png)
+![Esto es un tigre](cap2.png)  
+En esta parte de la pagina divido en tres secciones las diferentes noticias del animal, hablo de noticias actuales sobre enfermedades de las que se contagian, natalidad, entre otras.
 
 
 
 ##### Tercera Parte Parte
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+.
 
 
