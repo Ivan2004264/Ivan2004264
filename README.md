@@ -6,7 +6,7 @@ Indice
 ## Primera Parte
 ![Esto es un tigre](cap1.png)  
 Esto es una parte de varias paginas web dedicadas a los animales en este caso es sobre el tigre. A continuacion voy a explicar las diferentes cosas que se pueden llegar a visualizar:
-- La pagia se sume en blancos y negros para crear ese contraste minimalista, pero al gusto de la vista.
+- La pagina se sume en blancos y negros para crear ese contraste minimalista, pero al gusto de la vista.
 - Un header con el titulo ***Tigre*** en negro sobre un fondo en blanco para hacer contraste.
 - Un texto informativo acompañado de una imagen del animal del cual se habla y una breve descripcion de el y su situaacion actual.
 > Abajo hay una pequeña linea negra que separa este contenido del siguiente.
