@@ -1,5 +1,11 @@
 # Mi pagina web 'Tigre'
 Indice  
+|  Primera Parte |Segunda Parte                  |Tercera Parte                |
+|----------------|-------------------------------|-----------------------------|
+|1 Titulo        |3 titulos                      |1 titulo                     |
+|1 Imagen        |3 imagenes                     |1 imagen                     |
+|1 Descripcion   |3 descripciones                |                             |
+
 - [Primera Parte](##Primera-Parte)
 - [Segunda Parte](##Segunda-Parte)
 - [Tercera Parte](##Tercera-Parte)
